@@ -15,6 +15,8 @@ gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views'
 
+gem 'stock_quote'
+
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 
 gem 'will_paginate', '3.1.5'
